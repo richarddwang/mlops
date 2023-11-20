@@ -1,6 +1,7 @@
 # Use cases
 - Automatic naming
-    - experiment
+    - experiment 
+      - > use experiment yaml name 
     - run
     - model
 - Transfer learning
@@ -10,4 +11,16 @@
 - error analysis
 - report
     - export table
+      - best value
+      - last value
     - wirte reports
+- Reproduction
+  - code / commit
+  - env
+  - config
+  - verify code change doesn't break previous -> testing?
+- configuration
+  - no code
+  - list value
+    - replace
+    - append
