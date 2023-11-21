@@ -1,0 +1,3 @@
+class_path: BatchSizeFinder
+init_args:
+  max_trials: 10
